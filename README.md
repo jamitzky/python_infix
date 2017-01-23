@@ -1,6 +1,7 @@
 # python_infix
 
-see also:http://code.activestate.com/recipes/384122-infix-operators/
+see also the python recipe:
+http://code.activestate.com/recipes/384122-infix-operators/
 
 Python has the wonderful "in" operator and it would be nice to have additional infix operator like this. This recipe shows how (almost) arbitrary infix operators can be defined.
 
